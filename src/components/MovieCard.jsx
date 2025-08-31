@@ -26,6 +26,3 @@ function MovieCard({ movie }) {
 }
 
 export default MovieCard;
-
-// named export -> can send multiple things -> export fnName
-// default export  -> single entity will be send -> end mei jaake [ export defualt fnName ]
