@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# api file that holds API key and all
-src/services/api.js
+
+
